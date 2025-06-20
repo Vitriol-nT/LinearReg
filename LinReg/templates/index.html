@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PRcognition_</title>
+    <link rel="stylesheet" href="../static/Style.css">
+    <link rel="icon" href="../templates/Logo_Image.png">
+    <script src="../static/Script1.js"></script>
+</head>
+<body>
+  <ul>
+      <a href="">PRcognition_</a>
+      <a class="abt" href="../static/AboutPage.html">About</a>
+  </ul>
+  <div class="space"></div>
+  <div class="section1">
+    <h1>Predicting Values!</h1>
+    <hr>
+    <p>
+        This Linear Regression model shows correlation between<br>
+        Food Waste and Usage of Mobile Tablets.<br><br>
+        The graph and scatter plot shows the dataset and following regression direction.<br>
+        To know more about this data and how it works,<br>
+        please click "About" button on upper side of the screen.<br>
+        Plus, to refresh if any bug happened on the page, click logo to refresh.
+    </p>
+  </div>
+  <div class="space"></div>
+  <div class="container">
+    <div class="section2">
+        <p>
+            On this section, the input data will be your tablet usage.<br>
+            and the following value will be expected amount of waste.
+        </p>
+        <button onclick="sendPrediction()">Predict</button>
+        <input type="number" id="anticipation" placeholder="Enter Your Anticipation number">
+        <br>
+        <hr>
+        <p style="font-size: 25%;">Regression Status</p>
+        <img src="../static/Generated.jpg" alt="image will be generated as soon as it is refreshed.">
+        <hr>
+        <h1 id="result"></h1>
+    </div>
+    <div class="space"></div>
+    <div class="section3">
+        <h2>What does this thing do?</h2>
+        <hr>
+        <p>
+            This software shows linear/polynomial<br>regression of 2 datasets.<br>
+            correlation of usage of<br>mobile tablet and food waste. <br>
+            To know more about this data<br>and how it works,<br>
+            please click "About" button<br>on upper side of the screen.<br>
+        </p>
+    </div>
+  </div>
+</body>
+</html>

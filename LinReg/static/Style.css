@@ -1,0 +1,170 @@
+body {
+    background-color: #e6e0d4;
+    padding: 2.5%;
+}
+
+ul {
+    padding: 1%;
+    margin: 0;
+    background-color: #b8b2a6;
+    top: 1%;
+    position: sticky;
+    width: 100%;
+    height: 10%;
+    border-radius: 3px;
+    flex-direction: column;
+    align-content: end;
+}
+
+ul a {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 150%;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    text-align: center;
+    background-color: white;
+    padding: 2%;
+    float: left;
+    text-decoration: none;
+    margin: 0;
+}
+
+ul a:hover {
+    background-color: black;
+    color: white;
+}
+
+ul .abt {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 100%;
+    font-weight: lighter;
+    color: black;
+    display: flex;
+    text-align: center;
+    background-color: #b8b2a6;
+}
+
+ul .abt:active {
+    color: white;
+    background-color: #bdbdbd;
+}
+
+.container {
+    display: flex;
+}
+
+.section1 {
+    background-color: white;
+    border: black solid;
+    border-width: 2px;
+    border-radius: 5px;
+    width: 95%;
+    height: 50%;
+    margin: 0 auto;
+    padding-bottom: 1%;
+}
+
+.section1 > h1 {
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    font-size: 120%;
+    padding-left: 1%;
+    padding-top: 2%;
+    font-family: helvetica;
+}
+
+.section1 > p {
+    color: black;
+    text-align: left;
+    font-size: 100%;
+    padding-left: 2.5%;
+    padding-top: 2%;
+    font-family: helvetica;
+}
+
+.space {
+    color: seashell;
+    padding: 2.5%;
+}
+
+.section2 {
+    background-color: white;
+    border: black solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 150%;
+    height: 50%;
+    overflow: auto;
+}
+
+.section2 > button {
+    padding: 1%;
+    border-radius: 5px;
+    border: solid;
+    font-family: helvetica;
+    font-size: 75%;
+    background-color: white;
+    margin-left: 2.5%;
+}
+.section2 > button:hover {
+    background-color: #fde7d7;
+    color: black;
+    border-color: darkorange;
+    cursor: pointer;
+}
+
+.section2 > button:active {
+    background-color: #ffab42;
+    border-color: darkorange;
+    color: white;
+}
+
+.section2 > img {
+    margin: 0 auto;
+    width: 50%;
+    height: 45%;
+    padding: 2%;
+}
+
+.section2 > h1 {
+    font-family: helvetica;
+    font-size: 150%;
+    margin-left: 2%;
+}
+
+.section2 > p {
+    color: black;
+    text-align: left;
+    font-size: 100%;
+    padding-left: 2.5%;
+    padding-top: 2%;
+    font-family: helvetica;
+}
+
+.section3 {
+    background-color: white;
+    border: black solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 95%;
+    height: 50%;
+    font-family: helvetica;
+}
+
+.section3 > h2 {
+    padding: 2.5%;
+    font-size: 120%;
+}
+
+.section3 > p {
+    color: black;
+    text-align: left;
+    font-size: 100%;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-family: helvetica;
+}
