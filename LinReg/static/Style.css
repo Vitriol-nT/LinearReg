@@ -28,9 +28,11 @@ ul a {
     float: left;
     text-decoration: none;
     margin: 0;
+    transition: 0.2s;
 }
 
 ul a:hover {
+    transition: 0.2s;
     background-color: black;
     color: white;
 }
