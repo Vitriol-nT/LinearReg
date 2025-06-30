@@ -11,5 +11,3 @@ Humans are so cooked. good luck everyone
 
 # but
 that doesnt mean that i am going to stop keep posting yee-yee things. (sorry)
-
-at least im going for electrical engineering
