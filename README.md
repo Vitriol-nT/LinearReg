@@ -11,3 +11,6 @@ Humans are so cooked. good luck everyone
 
 # but
 that doesnt mean that i am going to stop keep posting yee-yee things. (sorry)
+
+
+https://github.com/Vitriol-nT/LinearReg/issues/1#issue-3217865901
