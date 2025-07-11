@@ -14,5 +14,4 @@ that doesnt mean that i am going to stop keep posting yee-yee things. (sorry)
 
 
 This is the video
-[https://github.com/user-attachments/assets/32605953-3937-4a73-abc4-1148a74f689a
-](https://github.com/Vitriol-nT/LinearReg/issues/1#issue-3217865901)
+[https://github.com/user-attachments/assets/32605953-3937-4a73-abc4-1148a74f689a](https://github.com/Vitriol-nT/LinearReg/issues/1#issue-3217865901)
